@@ -3,15 +3,15 @@
 #### Technical Skills: Python Panadas, Python Selenium, SQL, Tableau, Looker
 
 ## Education        		
-- B.S., Supply Chain Management | Miami Dade College (_May 2018_)
+- B.S., Supply Chain Management | Miami Dade College (Dec 2018)
 
 ## Work Experience
-**Logistics Specialist @ On running (_Nov 2019 - March 2025)**
+**Logistics Specialist @ On running (Nov 2019 - March 2025)**
 - Developed and maintained data, reports, and dashboards to analyze logistics data, identifying risks and opportunities to improve shipping and optimize orderbook fulfillment.
 - Developed KPI tracking tools to monitor freight costs, service level agreements, contract compliance, and lead QBRs with 3PLs.
 
 
-**Regional Trainer and operations support specialist (_Mar 2016 - Nov 2019)**
+**Regional Trainer and operations support specialist @ DB Schenker (Mar 2016 - Nov 2019)**
 - Conducted data collection, processing, and analysis  to optimize freight operations and reduce costs.
 - Conducted training on data analysis techniques and logistics software, improving team productivity.
 
