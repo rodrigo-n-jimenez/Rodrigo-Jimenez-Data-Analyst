@@ -3,7 +3,7 @@
 #### Technical Skills: Python Panadas, Python Selenium, SQL, Tableau, Looker
 
 ## Education        		
-- B.S., Supply Chain Management | Miami Dade College (Dec 2018)
+- B.S., Supply Chain Management - Miami Dade College (Dec 2018)
 
 ## Work Experience
 **Logistics Specialist @ On running (Nov 2019 - March 2025)**
@@ -25,7 +25,7 @@
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 
 
-![Bike Study](/main/bike_study.jpeg)
+![Bike Study](main/bike_study.jpeg)
 
 ## Talks & Lectures
 
