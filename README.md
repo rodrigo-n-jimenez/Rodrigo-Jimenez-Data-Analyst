@@ -25,7 +25,7 @@
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 
 
-![Bike Study](main/bike_study.jpeg)
+![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Talks & Lectures
 
