@@ -17,9 +17,7 @@
 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-
-
+### Transportation lead time analysis
 ![LT](/assets/img/Screenshot 2025-02-10 131251.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
@@ -27,7 +25,13 @@
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
+## Certifications
+- Python for data Science - Udemy (2019)
+- Robot process automation - Udemy (2021)
+- SQL and MySQL complete course - Udemy (2023)
+- ChatGPT prompt engineering for developerts - OpenAI (2024)
 
 
-## Publications
+## Contacts
+LinkedIn: @RodrigoJimenez
+Email: rodrigo_n_jimenez@outlook.com
