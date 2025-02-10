@@ -20,7 +20,7 @@
 ### Data-Driven EEG Band Discovery with Decision Trees
 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![LT](/assets/img/Screenshot 2025-02-10 131251.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 
