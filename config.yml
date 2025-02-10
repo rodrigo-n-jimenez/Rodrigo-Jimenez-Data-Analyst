@@ -1,7 +1,7 @@
 title: Rodrigo Jimenez
 logo: /assets/img/Mugshot_Rodrigo.jpg
-description: text below image
-show_downloads: false
+# description: text below image
+show_downloads: true
 theme: jekyll-theme-minimal
 
 
