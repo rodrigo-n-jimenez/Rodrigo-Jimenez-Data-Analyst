@@ -2,6 +2,13 @@
 
 #### Technical Skills: Python Panadas, Python Selenium, SQL, Tableau, Looker
 
+## About me
+Hi, I'm Rodrigo! I have a strong background in logistics, supply chain management, and process automation, with over a decade of experience implementing data-driven solutions. 
+Throughout my career, I have successfully standardized reporting for global logistics partners, developed dashboards and KPIs, simplified tasks through automation, and improved cost transparency by reconciling freight invoices. I thrive on leveraging data analytics, automation, and process optimization to drive operational excellence and strategic decision-making.
+I am always eager to explore new tools and methodologies in data analysis, continuously seeking opportunities to deepen my expertise and broaden my technical skill set. 
+Whether working independently or in a team setting, I am motivated by the challenge of uncovering meaningful insights and applying data-driven solutions to solve intricate problems.
+Let’s connect! 🚀
+
 ## Education        		
 - B.S., Supply Chain Management - Miami Dade College (Dec 2018)
 
@@ -17,11 +24,15 @@
 
 
 ## Projects
-### Transportation lead time analysis
+### Tableau
+ ### [Transportation lead time analysis](https://public.tableau.com/app/profile/rodrigo.jimenez8220/viz/TransportationleadtimedashboardEOY2024/Dashboard1)
 ![LT](/assets/img/Screenshot 2025-02-10 131251.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+### Python
+ ### Example 1
 
+### SQL
+ ### Example 1 
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
