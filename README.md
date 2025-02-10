@@ -33,5 +33,5 @@
 
 
 ## Contacts
-LinkedIn: @RodrigoJimenez
-Email: rodrigo_n_jimenez@outlook.com
+- LinkedIn: [@RodrigoJimenez](https://www.linkedin.com/in/rodrigo-jimenez-33b3b8246/)
+- Email: rodrigo_n_jimenez@outlook.com
