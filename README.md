@@ -25,11 +25,11 @@ Let’s connect! 🚀
 
 ## Projects
 ### Tableau
- ### [Transportation lead time analysis](https://public.tableau.com/app/profile/rodrigo.jimenez8220/viz/TransportationleadtimedashboardEOY2024/Dashboard1)
+ [Transportation lead time analysis](https://public.tableau.com/app/profile/rodrigo.jimenez8220/viz/TransportationleadtimedashboardEOY2024/Dashboard1)
 ![LT](/assets/img/Screenshot 2025-02-10 131251.png)
 
 ### Python
- ### Example 1
+[Rental properties analyzes in Zurich, Switzerland](https://github.com/rodrigo-n-jimenez/projects-portfolio/blob/main/rent_data_zurich_project.ipynb) 
 
 ### SQL
  ### Example 1 
