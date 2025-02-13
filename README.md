@@ -34,7 +34,6 @@ Let’s connect! 🚀
 ### SQL
 [English football second division 2024, Sunderland FC performance](https://github.com/rodrigo-n-jimenez/projects-portfolio/blob/main/Sunderland_query.sql)
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Certifications
 - Python for data Science - Udemy (2019)
