@@ -32,7 +32,7 @@ Let’s connect! 🚀
 [Rental properties analyzes in Zurich, Switzerland](https://github.com/rodrigo-n-jimenez/projects-portfolio/blob/main/rent_data_zurich_project.ipynb) 
 
 ### SQL
- ### Example 1 
+[English football second division 2024, Sunderland FC performance](https://github.com/rodrigo-n-jimenez/projects-portfolio/blob/main/Sunderland_query.sql)
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
